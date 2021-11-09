@@ -17,6 +17,6 @@ spec:
     spec:
       containers:
       - name: helloworld
-        image: linuxacademycontent/gitops:hellov1.0
+        image: linuxacademycontent/gitops:hellov1.1
         ports:
         - containerPort: 80
