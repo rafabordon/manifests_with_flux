@@ -1,0 +1,1 @@
+{"jobID":"28bfe0c1-1e3d-89fa-fb82-4f51c2110690","spec":{"type":"policy","cause":{"Message":"","User":"Rafael Bordon \u003crafael.bordon@traderinteractive.com\u003e"},"spec":{"staging:deployment/helloworld-deployment":{"add":{"automated":"true"},"remove":{}}}},"result":null}
